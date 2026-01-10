@@ -25,10 +25,11 @@ git push origin
 - https://git-scm.com/docs/gitrepository-layout
 - https://git-scm.com/book/en/v2/Git-Internals-Transfer-Protocols
 ## Goals
-- [ ] Add project goals
+- [ ] Implement robust IPFS git remote helper
+- [ ] Support push/pull operations via IPFS
 
 ## Progress
-- [ ] Initial setup
+- [ ] Initial implementation of `git-remote-gitblox`
 
 ---
 *AI assisted*
