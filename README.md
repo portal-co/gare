@@ -24,3 +24,11 @@ git push origin
 - https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain
 - https://git-scm.com/docs/gitrepository-layout
 - https://git-scm.com/book/en/v2/Git-Internals-Transfer-Protocols
+## Goals
+- [ ] Add project goals
+
+## Progress
+- [ ] Initial setup
+
+---
+*AI assisted*
